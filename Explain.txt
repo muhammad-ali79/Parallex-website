@@ -1,0 +1,8 @@
+This is a small project in which i try to create the parallex effect.
+
+
+A parallex means background is far more than foreground like when you are driving the on the road the buildings passes faster because the distance between your eyes and buildings is less compared to the sun which is very far from your eyes that why it looks like on your head all the time like it is static.
+
+For that effect i used the translateZ background is far than foreground.
+
+position absolute is normall used to overlapp the elements.
